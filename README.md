@@ -15,9 +15,10 @@ A simple and interactive Tic-Tac-Toe web game built using HTML, CSS, and JavaScr
 
 🛠️ Technologies Used
 
-| HTML5 | – | Structure of the game |
-| CSS3 | – | Styling and layout |
-| JavaScript (ES6) | – | Game logic and interactivity |
+| Technology | Purpose |
+| **HTML5** | Structure of the game |
+| **CSS3** | Styling and layout |
+| **JavaScript (ES6)** | Game logic and interactivity |
 
 ---
 
@@ -40,3 +41,4 @@ A simple and interactive Tic-Tac-Toe web game built using HTML, CSS, and JavaScr
 
 ---
 
+⭐ If you liked this project, don’t forget to give it a star! ⭐
